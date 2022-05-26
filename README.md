@@ -28,3 +28,11 @@
 <br>
 ![Java](https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=#007396)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+
+<br>
+<h2>👊BOJ </h2>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunji118)](https://solved.ac/yunji118)
+
+<h2>🤟Github </h2>
+![여러분's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunji118&show_icons=true&theme=radical)
