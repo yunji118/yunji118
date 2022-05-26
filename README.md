@@ -3,7 +3,7 @@
 
 <!--**yunji118/yunji118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Yunji's%20github&fontSize=30&animation=scaleIn&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Yunji's%20github&fontSize=30&animation=scaleIn&fontAlignY=35)
 
 ### Hi there 👋
 
