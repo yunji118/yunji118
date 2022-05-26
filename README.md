@@ -31,7 +31,8 @@
 
 <h2>👊BOJ </h2>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunji118)](https://solved.ac/yunji118)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yunji118)](https://solved.ac/yunji118)
+
 
 <h2>🤟Github </h2>
 
