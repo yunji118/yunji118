@@ -32,7 +32,7 @@
 <h2>👊BOJ </h2>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunji118)](https://solved.ac/yunji118)
-
+분발하자!!
 <h2>🤟Github </h2>
 
 ![여러분's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunji118&show_icons=true&theme=radical)
