@@ -26,7 +26,7 @@
 <br>
 ![Java](https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=#007396)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 
 <h2>👊BOJ </h2>
 
