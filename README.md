@@ -24,7 +24,7 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=EclipseIDE&logoColor=#000000)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=#F80000)
 <br>
-![Java](https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=#007396)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=#007396)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 
