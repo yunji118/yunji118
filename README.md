@@ -16,7 +16,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-<h2>💪Skills </h2>
+<h2>💪Tech Stack </h2>
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
