@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-![42Seoul](https://img.shields.io/badge/Seoul-000000?style=flat-square&logo=42&logoColor=white) cadet
+![42Seoul](https://img.shields.io/badge/Seoul-000000?style=flat-square&logo=42&logoColor=white) Cadet
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
